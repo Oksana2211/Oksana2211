@@ -3,6 +3,7 @@
 I am Oksana Taysumova. Welcome to my GitHub page!
 
 - 💻 I’m currently working on  HTML5, CSS3, JavaScript, ReactJS.
+- 🔭 I'm in the process of learning new technologies
 - 🤲 I'm looking to collaborate on Projects
 
 
