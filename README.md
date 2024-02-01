@@ -2,14 +2,13 @@
 
 I am Oksana Taysumova. Welcome to my GitHub page!
 
-<div>
-  <img width=140  src="https://c.tenor.com/yQ6QlIyJf-EAAAAC/tenor.gif"/>
-</div>
-
 - 💻 I’m currently working on  HTML5, CSS3, JavaScript, ReactJS.
 - 🔭 I keep learning new technologies.
 - 🤲 I'm looking to collaborate on Projects.
 
+<div width=150 align="center">
+  <img src="https://c.tenor.com/yQ6QlIyJf-EAAAAC/tenor.gif"/>
+</div>
 
 ### Connect with me:
 - <a href="otajsumova@gmail.com" target="blank">E-mail</a>
