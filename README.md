@@ -2,8 +2,8 @@
 
 I am Oksana Taysumova. Welcome to my GitHub page!
 
-<div id="header" align="start">
-  <img width=140 src="https://c.tenor.com/yQ6QlIyJf-EAAAAC/tenor.gif"/>
+<div>
+  <img width=140  src="https://c.tenor.com/yQ6QlIyJf-EAAAAC/tenor.gif"/>
 </div>
 
 - 💻 I’m currently working on  HTML5, CSS3, JavaScript, ReactJS.
