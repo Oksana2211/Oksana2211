@@ -2,7 +2,7 @@
 
 I am Oksana Taysumova. Welcome to my GitHub page!
 
-<div padding-left= 2% >
+<div padding-left= 5% >
   <img width=150 src="https://c.tenor.com/yQ6QlIyJf-EAAAAC/tenor.gif"/>
 </div>
 
